@@ -1,0 +1,1 @@
+C:/Users/f0604/AppData/Local/Programs/Python/Python311/python.exe test.py
